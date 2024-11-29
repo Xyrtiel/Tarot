@@ -32,8 +32,14 @@
 | présenter cette analyse de manière claire et organisée.
 |
 | Remerciements :
-| Merci à l'équipe pédagogique du Lycée Dhuoda à Nîmes pour cette opportunité d'apprendre à travers 
+| Merci à l'équipe pédagogique pour cette opportunité d'apprendre à travers 
 | un jeu, et à mes camarades pour les échanges et discussions stratégiques !
+|
+| Auteur :
+| [Ton prénom/nom ou ton pseudo ici]
+|
+| Date de réalisation :
+| [Insère la date ici]
 |
 |--------------------------------------------------------------------------
 */
