@@ -1,5 +1,4 @@
-/*
-README : Projet Scolaire - Jeu de Tarot
+Projet Scolaire - Jeu de Tarot
 
 Description :
 Ce projet a été réalisé dans le cadre d'un travail scolaire visant à explorer
@@ -34,5 +33,3 @@ le jeu, et à mes camarades pour les échanges et réflexions partagées.
 
 Auteur :
 Xyrtiel
-
-*/
